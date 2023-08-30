@@ -19,8 +19,8 @@ function Section({name, position, date, img}: CardInfo){
                         />
                 <VStack wrap='wrap' paddingLeft='10px'>
                     <Text align='center'>{name}</Text>
-                    <Text>{position}</Text>
-                    <Text>{date}</Text>
+                    <Text align='center'>{position}</Text>
+                    <Text align='center'>{date}</Text>
                 </VStack>
             </Flex>
         </>
