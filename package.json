@@ -1,5 +1,6 @@
 {
   "name": "website",
+  "homepage": "https://julsan.dev/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
