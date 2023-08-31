@@ -1,5 +1,4 @@
 import Navbar from '../../components/Navbar';
-import BlogCard from './BlogCard';
 import { Text, Container} from '@chakra-ui/react'
 
 function BlogPage(){
