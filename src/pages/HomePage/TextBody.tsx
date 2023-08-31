@@ -11,7 +11,7 @@ function TextBody(){
 
                 In my spare time, I enjoy playing rapid chess where I am a member of FSU's
                 chess club, and also regularly play online. I also enjoy playing 
-                video games such Overwatch, Fallout, and Stardew Valley. <br/><br/>
+                video games such as Overwatch, Fallout, and Stardew Valley. <br/><br/>
 
                 Filipino American, second-year student, South Floridian. <br/><br/>
             </Text>
