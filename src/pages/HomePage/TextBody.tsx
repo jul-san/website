@@ -17,12 +17,12 @@ function TextBody(){
             </Text>
 
 
-            <Text>
-                <Link href='https://www.linkedin.com/in/julianwsanchez/' textDecoration='underline'>LinkedIn </Link>
+            <Text fontFamily='Roboto Mono'>
+                <Link href='https://www.linkedin.com/in/julianwsanchez/' textDecoration='underline'>LinkedIn</Link>
                 •
-                <Link href='https://github.com/jul-san' textDecoration='underline'> GitHub </Link> 
+                <Link href='https://github.com/jul-san' textDecoration='underline'>GitHub</Link> 
                 •
-                <Link href='https://www.instagram.com/julianwsanchez/' textDecoration='underline'> Instagram</Link> 
+                <Link href='https://www.instagram.com/julianwsanchez/' textDecoration='underline'>Instagram</Link> 
             </Text>
         </Container>
         </>
