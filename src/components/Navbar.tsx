@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const HoverLink = chakra(Link, {
     baseStyle: {color: 'gray',
       _hover: {
-        color: 'white',
+        color: 'black',
       },
     },
   });
@@ -14,7 +14,7 @@ function Navbar(){
         <>
         <Container paddingTop='20px'>
             <nav>
-                <HStack fontFamily='Roboto Mono' fontSize='20px' fontStyle='gray' spacing='5'>
+                <HStack  fontSize='20px' fontStyle='gray' spacing='5'>
                     <HoverLink to='/'>home</HoverLink>
                     <HoverLink to='/resume'>resume</HoverLink>
                     <HoverLink to='/blog' >writing</HoverLink>
