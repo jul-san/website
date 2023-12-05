@@ -38,7 +38,7 @@ function Section({name, position, date, img}: CardInfo){
                         fontSize="18px"
                     >
                         <VStack wrap="wrap" paddingLeft="10px" textAlign="center">
-                            <Text>{name}</Text>
+                            <Text><b>{name}</b></Text>
                             <Text>{position}</Text>
                             <Text>{date}</Text>
                         </VStack>
