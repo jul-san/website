@@ -18,7 +18,7 @@ function BlogPage(){
                         img="/img/stick.jpg"></BlogCard>
 
                 <BlogCard title="SERC Shenanigans" 
-                        body="January 18, 2023" 
+                        body="January 18, 2024" 
                         link="/blog/serc-shenanigans" 
                         img="/img/kyle-nina-i-serc.jpg"></BlogCard>
 
