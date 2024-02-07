@@ -9,7 +9,7 @@ function ImportanceOfBigs(){
             <Container paddingTop='10px' paddingBottom='10px'>
             <Heading paddingTop='10px' fontSize='30px'>The Importance of Having a Big</Heading>
             <Text color='gray' paddingBottom='10px'>October 4, 2023</Text>
-                <Image src='../src/img/blog/bigs/rachel-big.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
+                <Image src='../src/img/rachel-big.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
                 <Text paddingTop='10px' fontSize='15px'>
                 
                 At the beginning of last year, I struggled to make friends in the first few weeks of college. Even though I was surrounded by many 
@@ -87,7 +87,7 @@ function ImportanceOfBigs(){
                 Although most of them are gone or will be gone in the next few months, I will always cherish the memories we've made and have an everlasting 
                 appreciation for making my college experience the best it can be.<br/><br/>
 
-                <Image src='../src/img/blog/bigs/big-photo-dump.jpg' alt='Dan Abramov' borderRadius='10px'></Image><br/>
+                <Image src='../src/img/big-photo-dump.jpg' alt='Dan Abramov' borderRadius='10px'></Image><br/>
 
 
                 Thanks for reading! :)<br/><br/>

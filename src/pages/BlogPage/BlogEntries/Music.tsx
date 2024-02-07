@@ -9,7 +9,7 @@ function Music(){
             <Container paddingTop='10px' paddingBottom='10px'>
                 <Heading paddingTop='10px' fontSize='30px'>Evolution of My Music Taste</Heading>
                 <Text color='gray' paddingBottom='10px'>October 4, 2023</Text>
-                    <Image src='../src/img/blog/music-taste/spotify.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='../src/img/spotify.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
                     <Text paddingTop='10px' fontSize='15px'>  
 
                     When I sat down to think about it, I found it pretty intriguing how my music taste has changed throughout my whole life. 

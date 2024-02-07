@@ -13,7 +13,7 @@ function ImageGrid(){
 
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Fair w Eva and Lana' 
-                        src='src/img/grid/fair-eva-lana-i.jpg' 
+                        src='src/img/fair-eva-lana-i.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -22,7 +22,7 @@ function ImageGrid(){
 
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Riceball selfie w Nina' 
-                        src='src/img/grid/riceball-nina-selfie.jpg' 
+                        src='src/img/riceball-nina-selfie.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -31,7 +31,7 @@ function ImageGrid(){
             
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Group picture at Tally party' 
-                        src='src/img/grid/tallyween-cam-carissa-sami.jpg' 
+                        src='src/img/tallyween-cam-carissa-sami.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -40,7 +40,7 @@ function ImageGrid(){
             
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Mia selfie' 
-                        src='src/img/grid/point-five-mia.jpg' 
+                        src='src/img/point-five-mia.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -48,7 +48,7 @@ function ImageGrid(){
             </GridItem>
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Getting pied in the face' 
-                        src='src/img/grid/pie-carissa-dean.jpg' 
+                        src='src/img/pie-carissa-dean.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -57,7 +57,7 @@ function ImageGrid(){
             
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Pho dinner' 
-                        src='src/img/grid/pho-kyle-nina.jpg' 
+                        src='src/img/pho-kyle-nina.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -65,7 +65,7 @@ function ImageGrid(){
             </GridItem>
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Winning NMoY w Tai' 
-                        src='src/img/grid/aasu-award-tai.jpg' 
+                        src='src/img/aasu-award-tai.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -73,7 +73,7 @@ function ImageGrid(){
             </GridItem>
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Selfie at Hmart' 
-                        src='src/img/grid/hmart-eva-selfie.jpg' 
+                        src='src/img/hmart-eva-selfie.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -81,7 +81,7 @@ function ImageGrid(){
             </GridItem>
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Group picture on Kens bday' 
-                        src='src/img/grid/riceball-cat-lana-eva.jpg' 
+                        src='src/img/riceball-cat-lana-eva.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -90,7 +90,7 @@ function ImageGrid(){
 
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Holi' 
-                        src='src/img/grid/holi-mia-daniela.jpg' 
+                        src='src/img/holi-mia-daniela.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -98,7 +98,7 @@ function ImageGrid(){
             </GridItem>
             <GridItem rowSpan={1} colSpan={2}>
                 <Image alt='Kbbq in Gville' 
-                        src='src/img/grid/kbbq-gainesville.jpg' 
+                        src='src/img/kbbq-gainesville.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
@@ -107,7 +107,7 @@ function ImageGrid(){
             
             <GridItem rowSpan={1} colSpan={1}>
                 <Image alt='Dinner selfie' 
-                        src='src/img/grid/dinner-eva.jpg' 
+                        src='src/img/dinner-eva.jpg' 
                         borderRadius='10px'
                         h='100%'
                         w='100%'
