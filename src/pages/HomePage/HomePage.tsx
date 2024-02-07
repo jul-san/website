@@ -7,10 +7,12 @@ import TextBody from './TextBody';
 function HomePage(){
     return(
         <>
+            
             <Navbar/>
             <Head/>
-            <ImageGrid/>
             <TextBody/>
+            <ImageGrid/>
+
             <Footer/>
         </>
     )

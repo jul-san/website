@@ -2,9 +2,9 @@ import { chakra, HStack, Container } from '@chakra-ui/react'
 import { Link } from 'react-router-dom';
 
 const HoverLink = chakra(Link, {
-    baseStyle: {color: 'gray',
+    baseStyle: {color: 'black',
       _hover: {
-        color: 'black',
+        textDecoration: 'underline'
       },
     },
   });
@@ -13,14 +13,16 @@ function Navbar(){
     return(
         <>
         <Container paddingTop='20px'>
-            <nav>
-                <HStack  fontSize='20px' fontStyle='gray' spacing='5'>
-                    <HoverLink to='/'>home</HoverLink>
-                    <HoverLink to='/resume'>resume</HoverLink>
-                    <HoverLink to='/blog' >writing</HoverLink>
-                </HStack>
-            </nav>
-        </Container>
+                <nav>
+                    <HStack justifyContent='space-between' fontSize='20px' fontWeight='bold'>
+                        <text>[<HoverLink to='/' color='#7852ee'>home</HoverLink>]</text>
+                        <HStack spacing='5'>
+                            <text>[<HoverLink to='/resume' color='#7852ee'>resume</HoverLink>]</text>
+                            <text>[<HoverLink to='/blog' color='#7852ee'>writing</HoverLink>]</text>
+                        </HStack>
+                    </HStack>
+                </nav>
+            </Container>
         
         </>
     );

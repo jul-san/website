@@ -1,40 +1,42 @@
-import { Text, Container, Stack, Card, CardBody, Image, Heading,  CardFooter, Link} from '@chakra-ui/react'
+import { Text, Container, Card, Link, Image, Box, Flex, Spacer} from '@chakra-ui/react'
 
 interface CardInfo{
     title: string;
     body: string;
+    link: string;
     img: string;
  }
 
-function BlogCard({title, body, img}: CardInfo){
+function BlogCard({title, body, link, img}: CardInfo){
     return(
         <>
         <Container>
-        <Link href='/resume'>
+        <Link href={link}>
             <Card
-                direction={{ base: 'column', sm: 'row' }}
-                overflow='hidden'
-                variant='outline'
-                >
-            <Image
-                objectFit='cover'
-                maxW={{ base: '50%', sm: '150px' }}
-                src={img}
-                alt='Caffe Latte'
-            />
-
-            <Stack>
-                <CardBody>
-                <Heading size='md'>{title}</Heading>
-
-                <Text py='2'>
-                    {body}
-                </Text>
-                </CardBody>
-
-                <CardFooter>
-                </CardFooter>
-            </Stack>
+                borderWidth="1px"
+                border='none'
+                borderRadius="lg"
+                overflow="hidden"
+                w="100%"
+                boxShadow="none"
+                paddingBlock='5px'
+            >
+                <Flex align="left">
+                    <Box p={2}>
+                        <Image
+                            borderRadius="15px"
+                            boxSize="50px"
+                            src={img}
+                            alt='thumbnail'
+                            objectFit="cover"
+                        />
+                    </Box>
+                    <Box pl={2}>
+                        <Text fontWeight="bold" fontSize="15px">{title}</Text>
+                        <Text fontSize="sm" color="gray.500">{body}</Text>
+                    </Box>
+                    <Spacer />
+                </Flex>
             </Card>
         </Link>
         </Container>
