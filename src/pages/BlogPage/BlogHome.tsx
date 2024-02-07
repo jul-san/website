@@ -15,32 +15,32 @@ function BlogPage(){
                 <BlogCard title="I Think My Biggest Fear Is True" 
                         body="February 2, 2024" 
                         link="/blog/fear" 
-                        img="../src/img/stick.jpg"></BlogCard>
+                        img="/img/stick.jpg"></BlogCard>
 
                 <BlogCard title="SERC Shenanigans" 
                         body="January 18, 2023" 
                         link="/blog/serc-shenanigans" 
-                        img="../src/img/kyle-nina-i-serc.jpg"></BlogCard>
+                        img="/img/kyle-nina-i-serc.jpg"></BlogCard>
 
                 <BlogCard title="My Top 5 Video Game List" 
                         body="December 20, 2023" 
                         link="/blog/top-five-videogames" 
-                        img="../src/img/adventure-time.png"></BlogCard>
+                        img="/img/adventure-time.png"></BlogCard>
                 
                 <BlogCard title="A Weekend In Atlanta" 
                         body="October 25, 2023" 
                         link="/blog/atlanta" 
-                        img="../src/img/group-photobooth.jpg"></BlogCard>
+                        img="/img/group-photobooth.jpg"></BlogCard>
                 
                 <BlogCard title="The Importance of Having a Big" 
                         body="October 4, 2023" 
                         link="/blog/having-a-big" 
-                        img="../src/img/rachel-big.jpg"></BlogCard>
+                        img="/img/rachel-big.jpg"></BlogCard>
 
                 <BlogCard title="Evolution of My Music Taste"
-                        body="October 4, 2023" 
+                        body="July 23, 2023" 
                         link="/blog/music" 
-                        img="../src/img/spotify.jpeg"></BlogCard>
+                        img="/img/spotify.jpeg"></BlogCard>
 
 
 

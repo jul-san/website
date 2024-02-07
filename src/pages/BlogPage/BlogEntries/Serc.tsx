@@ -9,7 +9,7 @@ function Serc(){
             <Container paddingTop='10px' paddingBottom='10px'>
                 <Heading paddingTop='10px' fontSize='30px'>SERC Shenanigans</Heading>
                 <Text color='gray' paddingBottom='10px'>January 18, 2024</Text>
-                    <Image src='../src/img/kyle-nina-i-serc.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/kyle-nina-i-serc.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
                     <Text paddingTop='10px' fontSize='15px'>
 
                     A couple of days ago, my friends and I traveled east to Gainesville for an event called the SASE Southeast Regional Event. It's 
@@ -39,7 +39,7 @@ function Serc(){
                     wore the T-shirt over the button-down he was already wearing, but when he tried to take the free T-shirt off, he got stuck. It was super 
                     hilarious and I offered to help him take it off before the workshop started.<br/><br/>
 
-                    <Image src='../src/img/kyle-shirt.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/kyle-shirt.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     A couple minutes pass by and the workshop begins. They started talking about why it's good to work in teams. I wasn't really too interested 
                     since it I feel like it seemed pretty obvious why it's beneficial.<br/><br/>
@@ -52,7 +52,7 @@ function Serc(){
                     A guy from the University of South Florida came up and watched us for a bit. When we asked, he said he was rated 2000 in chess, which means he's better 
                     than 95% of players, so it was pretty cool to meet someone that good.<br/><br/>
 
-                    <Image src='../src/img/playing-chess.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/playing-chess.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     During the car ride, we decided to head to Yummy House for dim sum.<br/><br/>
 
@@ -62,7 +62,7 @@ function Serc(){
                     We eventually arrived at Yummy House. I would say overall that it's a pretty standard dim sum restaurant. The food was good and there were a 
                     lot of options to choose from. On a scale of 1 to 10, I would give it a 7.<br/><br/>
 
-                    <Image src='../src/img/dimsum.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/dimsum.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     After enjoying dim sum, we headed back to the Reitz Union for the next part of the day: the networking session.<br/><br/>
 
@@ -83,7 +83,7 @@ function Serc(){
 
                     At some point, at least ten of us stood in a circle, but it was a pretty funny scenario when looking back at it.<br/><br/>
 
-                    <Image src='../src/img/networking.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/networking.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     After the networking session wrapped up, it was time for another workshop. We started heading into one of the smaller rooms for it, but we 
                     decided to go bowling instead. So, we ditched the workshop and headed straight to the bottom floor to go bowling instead.<br/><br/>
@@ -110,7 +110,7 @@ function Serc(){
                     A funny thing that we saw was seeing someone dressed up as the Charmin Bear right by the P&G table. We couldn't pass up the chance 
                     for a photo with the bear.<br/><br/>
 
-                    <Image src='../src/img/charmin-bear.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/charmin-bear.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     It was starting to get a little late by then, so after meandering around a little longer, we decided to walk around Gainesville for a 
                     bit and grab dinner.<br/><br/>
@@ -128,7 +128,7 @@ function Serc(){
                     Our food eventually arrived, and it was delicious overall! On a scale from 1-10, I would rate it as a seven or an eight. Of course, before 
                     eating, we had to get a picture.<br/><br/>
 
-                    <Image src='../src/img/bagels-noodles.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                    <Image src='/img/bagels-noodles.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                     We returned to the car shortly after eating and began the two-hour drive back to Tallahassee.<br/><br/>
 

@@ -9,7 +9,7 @@ function Atlanta(){
             <Container paddingTop='10px' paddingBottom='10px'>
             <Heading paddingTop='10px' fontSize='30px'>A Weekend In Atlanta</Heading>
             <Text color='gray' paddingBottom='10px'>October 25, 2023</Text>
-                <Image src='../src/img/group-photobooth.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
+                <Image src='/img/group-photobooth.jpg' alt='Dan Abramov' borderRadius='10px'></Image>
                 <Divider paddingTop="10px" orientation='horizontal' />
                 <Text fontSize='15px' paddingTop="10px">
 
@@ -44,7 +44,7 @@ function Atlanta(){
                 On the way, we stopped at a completely empty gas station. What made this interesting was that the majority of the lights were off, so from a 
                 distance, it looked like it was completely closed. But because I was desperate for gas, I had to stop by and check to see if the pumps were still on.<br/><br/>
                 
-                <Image src='../src/img/gas-station-thumbs-up.jpg' alt='gas station' borderRadius='10px'></Image><br/>
+                <Image src='/img/gas-station-thumbs-up.jpg' alt='gas station' borderRadius='10px'></Image><br/>
 
                 Thankfully, the gas pumps were still on, and we continued on with the drive.<br/><br/>
 
@@ -65,7 +65,7 @@ function Atlanta(){
 
                 We were a little bit late, but we were able to hear a few talks from some of the speakers and watch the award ceremony at the end.<br/><br/>
 
-                <Image src='../src/img/opening-ceremony.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/opening-ceremony.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 I would say the funniest thing about this was watching the number of students from UF who walked on the stage after receiving an award and comparing 
                 it to the number from other schools who won a different award. There were easily 100+ students from UF, while other schools maybe had 20-30 at most.<br/><br/>
@@ -89,7 +89,7 @@ function Atlanta(){
                 A big takeaway that I had was that the recruiters at conventions are really trying to hire, or at least interview, as many people as possible, 
                 so going to these events is a great way of trying to land an internship or a full-time offer.<br/><br/>
 
-                <Image src='../src/img/chick-fil-a-selfie.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/chick-fil-a-selfie.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After eating, all of us walked back to the Georgia World Congress Center to continue with the SASE convention.<br/><br/>
 
@@ -132,7 +132,7 @@ function Atlanta(){
                 She told me to follow her to find a table for our interview. What was a bit funny about this was that every single table we tried to find was completely filled, 
                 so we resorted to grabbing two chairs and just sitting in a corner of the building.<br/><br/>
 
-                <Image src='../src/img/mit-recruiter.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/mit-recruiter.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After settling down, the interview started, and it would be an understatement to say that I was nervous. My heart was beating rapidly in the first few minutes, 
                 but it eventually started to slow down.<br/><br/>
@@ -159,7 +159,7 @@ function Atlanta(){
                 
                 Overall, it was a decent learning experience that provided a lot of useful resources for people interested.<br/><br/>
 
-                <Image src='../src/img/sase-workshop.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/sase-workshop.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After the workshops was lunch/snack time. <br/><br/>
                 
@@ -169,14 +169,14 @@ function Atlanta(){
                 Apparently, you were only supposed to grab one item since there were so many people, but I didn't know that until one of my friends pointed it out to me. However, I 
                 had already grabbed at least three bags of food, so personally, I felt like there was no point in going back.<br/><br/>
 
-                <Image src='../src/img/snack-time-sase.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/snack-time-sase.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After a couple more workshops, our entire group decided to call it a day. There was an event being held a little later that night that some of us 
                 planned to come back for, but we had plans to grab dinner at Ponce City Market.<br/><br/>
 
                 After a short break at the Airbnb, we drove over to Ponce to meet up with our other members and walk around the area to see what was around.<br/><br/>
 
-                <Image src='../src/img/ponce-rooftop.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/ponce-rooftop.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After ordering food, we all gathered together to eat with each other. It was honestly a really great bonding experience with everyone and a nice break 
                 after staying at the convention for several hours.<br/><br/>
@@ -226,7 +226,7 @@ function Atlanta(){
 
                 After hearing the gong ring at least 20 times, it was finally my turn!<br/><br/>
 
-                <Image src='../src/img/ringing-the-gong.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/ringing-the-gong.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 Throughout the rest of the career fair, a few more of our members were able to receive offers from different companies. In total, five of us received either an 
                 internship or a full-time offer at the event.<br/><br/>
@@ -235,7 +235,7 @@ function Atlanta(){
 
                 Since this was near the end of the career fair, most of us were just chilling and talking to each other about our plans for after the event.<br/><br/>
 
-                <Image src='../src/img/eva-nina-i-selfie.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/eva-nina-i-selfie.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 An hour or so passed by, and the career fair officially ended.
 
@@ -258,7 +258,7 @@ function Atlanta(){
                 Once we arrived at H Mart, we walked around the store for a bit, then all came together in the food area to eat together. There were a lot of options to choose 
                 from, but I personally chose to order jajangmyeon, a Chinese-style Korean noodle dish that has slices of pork and is covered in a black bean sauce.<br/><br/>
 
-                <Image src='../src/img/group-hmart-dinner.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/group-hmart-dinner.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 After being there for a bit and hanging out, we all drove back to the Airbnb to relax for the rest of the night.<br/><br/>
 
@@ -268,7 +268,7 @@ function Atlanta(){
                 It was both fun and a bit stressful since the assignment I was working on was a little difficult, but luckily, I was working on it with a friend, so we were able to 
                 breeze through the assignment relatively quickly.<br/><br/>
 
-                <Image src='../src/img/airbnb-studying.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/airbnb-studying.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
                 The next day, we decided as a group to grab breakfast before making the drive back down to Tallahassee. We had a bit of trouble deciding where to go, 
                 but we eventually settled on a place called West Egg Café.<br/><br/>
@@ -278,7 +278,7 @@ function Atlanta(){
 
                 Once we all finished eating, my group and I drove back to Tallahassee, which concludes our Atlanta trip.<br/><br/>
 
-                <Image src='../src/img/west-egg-breakfast.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/west-egg-breakfast.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
                 
                 <Text fontSize="25px"> <b>Reflection</b></Text><br/>
 
@@ -299,7 +299,7 @@ function Atlanta(){
 
                 Looking forward to next year! :)<br/><br/>
 
-                <Image src='../src/img/sase-group-sign.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
+                <Image src='/img/sase-group-sign.jpg' alt='ceremony' borderRadius='10px'></Image><br/>
 
 
 

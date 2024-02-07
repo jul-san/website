@@ -9,7 +9,7 @@ function VideoGameList(){
             <Container paddingTop='10px' paddingBottom='10px'>
             <Heading paddingTop='10px' fontSize='30px'>My Top 5 Video Game List</Heading>
             <Text color='gray' paddingBottom='10px'>December 20, 2023</Text>
-                <Image src='../src/img/adventure-time.png' alt='Dan Abramov' borderRadius='10px'></Image>
+                <Image src='/img/adventure-time.png' alt='Dan Abramov' borderRadius='10px'></Image>
                 <Text paddingTop='10px' fontSize='15px'>
                     If you know me, then you would know that I'm a pretty big fan of video games.<br/><br/>
                     
@@ -30,7 +30,7 @@ function VideoGameList(){
                     and the ones that I hold dearly to me.<br/><br/>
 
                     <Text fontSize="25px"> <b>5. Wii Sports Resort</b></Text>
-                    <Image src='../src/img/wii-sports.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/wii-sports.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
 
                     When I transitioned from the Nintendo 3DS to the Wii, the first game that I ever played on it was Wii Sports Resort.<br/><br/>
                     
@@ -60,7 +60,7 @@ function VideoGameList(){
                     devoted a good amount of hours to, and it is the game that introduced me to the Wii console.<br/><br/>
 
                     <Text fontSize="25px"> <b>4. Stardew Valley</b></Text>
-                    <Image src='../src/img/stardew-valley.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/stardew-valley.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
 
                     I'm normally not a big fan of 2D pixelated games, so having Stardew Valley rank so high on my list is somewhat of a surprise to myself. 
                     However, what made this game so enjoyable for me is the depth of its story and the ability to craft your own play style as the game 
@@ -95,7 +95,7 @@ function VideoGameList(){
                     that doesn't involve any sort of competitive aspect, Stardew Valley is without a doubt the first game I would recommend.<br/><br/>
 
                     <Text fontSize="25px"> <b>3. Fallout 4</b></Text>
-                    <Image src='../src/img/fallout-4.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/fallout-4.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
     
                     The first role-playing game that I ever played, Fallout 4, is one of the greatest games I have ever experienced.<br/><br/>
 
@@ -135,7 +135,7 @@ function VideoGameList(){
                     best if you were to experience the game firsthand.<br/><br/>
 
                     <Text fontSize="25px"> <b>2. Overwatch</b></Text>
-                    <Image src='../src/img/ow.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/ow.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
 
                     For the people who know me in person, it's probably become a meme at this point that I'm a pretty big advocate for Overwatch.<br/><br/>
 
@@ -166,7 +166,7 @@ function VideoGameList(){
                     in order to improve and rise up the elo ladder. For me, that game just happened to be Overwatch.<br/><br/>
 
                     <Text fontSize="25px"> <b>1. Minecraft</b></Text>
-                    <Image src='../src/img/minecraft.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
+                    <Image src='/img/minecraft.jpeg' alt='Dan Abramov' borderRadius='10px'></Image>
 
                     So, we've reached the end and to no one's surprise, Minecraft trumps all.<br/><br/>
 
