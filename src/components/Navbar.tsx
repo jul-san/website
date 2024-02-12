@@ -17,6 +17,7 @@ function Navbar(){
                     <HStack justifyContent='space-between' fontSize='20px' fontWeight='bold'>
                         <text>[<HoverLink to='/' color='#7852ee'>home</HoverLink>]</text>
                         <HStack spacing='5'>
+                            <text>[<HoverLink to='/projects' color='#7852ee'>projects</HoverLink>]</text>
                             <text>[<HoverLink to='/resume' color='#7852ee'>resume</HoverLink>]</text>
                             <text>[<HoverLink to='/blog' color='#7852ee'>writing</HoverLink>]</text>
                         </HStack>
